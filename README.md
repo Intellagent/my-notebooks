@@ -1,3 +1,3 @@
-this is my readme
+# My Notebook Readme.md 
 
-There is a .gitignore file, which helps prevent adding unnecessary files to my repo.
+A .gitignore file, which helps prevent adding unnecessary files to my repo, is a great idea.
