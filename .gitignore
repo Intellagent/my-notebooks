@@ -1,0 +1,2 @@
+.ipynb_checkpoints/     # ignore checkpoints
+*/.ipynb_checkpoints/   # ignore checkpoints in subdirectories too
